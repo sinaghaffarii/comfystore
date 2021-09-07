@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/comfystore/static/css/main.71ae79c5.chunk.css",
+    "main.js": "/comfystore/static/js/main.285a2aed.chunk.js",
+    "main.js.map": "/comfystore/static/js/main.285a2aed.chunk.js.map",
+    "runtime-main.js": "/comfystore/static/js/runtime-main.44942a20.js",
+    "runtime-main.js.map": "/comfystore/static/js/runtime-main.44942a20.js.map",
+    "static/js/2.d2009827.chunk.js": "/comfystore/static/js/2.d2009827.chunk.js",
+    "static/js/2.d2009827.chunk.js.map": "/comfystore/static/js/2.d2009827.chunk.js.map",
+    "index.html": "/comfystore/index.html",
+    "static/css/main.71ae79c5.chunk.css.map": "/comfystore/static/css/main.71ae79c5.chunk.css.map",
+    "static/js/2.d2009827.chunk.js.LICENSE.txt": "/comfystore/static/js/2.d2009827.chunk.js.LICENSE.txt",
+    "static/media/hero-bcg-2.78991864.jpeg": "/comfystore/static/media/hero-bcg-2.78991864.jpeg",
+    "static/media/hero-bcg.a876f19f.jpeg": "/comfystore/static/media/hero-bcg.a876f19f.jpeg",
+    "static/media/logo.df6634c4.svg": "/comfystore/static/media/logo.df6634c4.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.44942a20.js",
+    "static/js/2.d2009827.chunk.js",
+    "static/css/main.71ae79c5.chunk.css",
+    "static/js/main.285a2aed.chunk.js"
+  ]
+}
